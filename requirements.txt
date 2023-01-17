@@ -4,3 +4,5 @@ httpx[http2]
 emoji-country-flag
 bs4
 PyYAML
+flask
+flask_restful
