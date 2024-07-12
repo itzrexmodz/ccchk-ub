@@ -2,6 +2,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
 **Requirements to run this userbot**
 ```
@@ -40,6 +41,11 @@ ___
 
 ~~Why did i used php? cause many peoples arent familiar with py i mean they prefer
 php over py for checker apis so they can understand and update by themselve thats why.~~
+
+## Running Locally
+```
+git clone https://github.com/xbinner18/ccchk-ub.git && pip3 install -r ccchk-ub/requirements.txt && python3 -m ubb
+```
 
 ## Note 
 Make sure to use Proxies for sending post requests for better result.
